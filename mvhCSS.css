@@ -50,7 +50,6 @@ svg {
 .spin {
   animation: spin 4s linear infinite;
 }
- }
             #yesButton {
                 background-color: #D8BFEC;
                 transition: transform 0.3s;
