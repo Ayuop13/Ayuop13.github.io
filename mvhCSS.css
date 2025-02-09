@@ -50,3 +50,24 @@ svg {
 .spin {
   animation: spin 4s linear infinite;
 }
+ }
+            #yesButton {
+                background-color: #D8BFEC;
+                transition: transform 0.3s;
+                margin-right: 10px;
+                width: 120px;
+                font-size: 30px;
+                height: 40px;
+                color: #fff;
+                margin-left: -140px;
+            }
+            #no {
+                position: absolute;
+                background-color: #9E7CBC;
+                transition: transform 0.3s;
+                margin-left: 10px;
+                width: 120px;
+                /* font-size: 30px; */
+                height: 40px;
+                color: #fff;
+  }
